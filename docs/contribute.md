@@ -2,7 +2,6 @@
 title: "Beitragen"
 permalink: "/contribute"
 ---
-# Beitragen
 Du kannst zum Beispiel in den folgenden Weisen etwas zu unserem Projekt beitragen:
 - Falls du Fehler findest, melde sie bitte bei den zugehörigen Seiten:
   - [Web-App](https://github.com/Jugendhackt/mkdwv-pwa/issues)
