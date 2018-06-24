@@ -1,4 +1,5 @@
 # Kot für die Welt
+Willkommen auf unserer Dokumentation!
 
 Endprodukt:
 
