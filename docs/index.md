@@ -15,3 +15,4 @@ Endprodukt:
 
 Wie du zu unserem Projekt beitragen kannst, findest du [hier](/contribute).  
 Alle Repositories sind [hier](/repositories) aufgelistet.
+Alle Beitragenden können **[hier](/contributors)** eingesehen werden.
