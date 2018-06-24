@@ -1,4 +1,6 @@
-# Kot für die Welt
+---
+title: "Mit Kot die Welt verbessern"
+---
 Willkommen auf unserer Dokumentation!
 
 Endprodukt:
