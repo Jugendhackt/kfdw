@@ -13,6 +13,6 @@ Endprodukt:
 
 **Problem:** Jens läuft mit seinem pinken Hundi "Summer" durch die Gegend. Er findet keinen Mülleimer für den Kot seines Hundes.
 
-Wie du zu unserem Projekt beitragen kannst, findest du [hier](/contribute).  
-Alle Repositories sind [hier](/repositories) aufgelistet.    
+Wie du zu unserem Projekt beitragen kannst, findest du [hier](/contribute).<br>
+Alle Repositories sind [hier](/repositories) aufgelistet.<br>
 Alle Beitragenden können **[hier](/contributors)** eingesehen werden.
