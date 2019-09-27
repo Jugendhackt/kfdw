@@ -3,7 +3,7 @@ title: "Contributors"
 permalink: "/contributors"
 ---
 Alle Beitragenden an diesem Projekt sind/waren:
-- [MagicMarvMan](https://marvnet.de) (Marvin)
+- [MagicMarvMan](https://marvinschopf.com) (Marvin)
 - [SchokoTets](https://github.com/SchokoTets) (Moritz)
 - [Curthy](https://github.com/Curthy) (Bjarne)
 - [fkiwitt](https://github.com/fkiwitt)
